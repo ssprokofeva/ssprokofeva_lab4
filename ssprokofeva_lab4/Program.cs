@@ -51,9 +51,6 @@ namespace ssprokofeva_lab4
             Console.WriteLine($"произведение: {product}");
             Console.WriteLine($"среднее арифмитическое:{average");
                 return sum;
-            
-          //задание 4.
-         Console.WriteLine("задание 4");
 
         }
     }
